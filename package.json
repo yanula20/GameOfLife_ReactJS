@@ -1,0 +1,19 @@
+{
+  "name": "gameoflife_reactjs",
+  "version": "1.0.0",
+  "description": "Game of Life Youtube tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanula20/GameOfLife_ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanula20/GameOfLife_ReactJS/issues"
+  },
+  "homepage": "https://github.com/yanula20/GameOfLife_ReactJS#readme"
+}
